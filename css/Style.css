@@ -1,3 +1,12 @@
+.font-fami1{
+    font-family: Bruno Ace SC;
+}
+.font-fami2{
+    font-family: Bungee;
+}
+.font-fami3{
+    font-family: Bebas Neue;
+}
 a{
     text-decoration: none;
     color: black;
@@ -14,20 +23,53 @@ ul{
     margin: 0;
     
 }
-.img-1{
-    width: 70%;
-    margin: 0 auto;
-    border-radius: 10px;
-}
-.b1{
-    padding-top: 5vh;
-}
 .b2{
-    padding-top: 5vh;
+    height: 400px;
+    background-image: url("../images/2.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .b3{
-    padding-top: 3vh;
+    height: 400px;
+    background-image: url("../images/3.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .foot li{
     display: block;
+}
+nav ul li a{
+    color: white;
+    font-weight: 500;
+}
+footer{
+    background-color: #F6F7F8
+}
+.foot-2{
+    background-color: black;
+}
+.fs-14{
+    font-size: 14px;
+}
+.icon li{
+    padding: 8px 7px;
+}
+.foot li{
+    padding: 9px 0px;
+}
+.b1{
+    height: 400px;
+    background-image: url("../images/1.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pr-5{
+    padding-right: 2px;
+
+}
+.pl-5{
+    padding-left: 2px;
 }
