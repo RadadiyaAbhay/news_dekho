@@ -268,3 +268,6 @@ footer{
 .btn:first-child:active {
     border-color: transparent;
 }
+.bor{
+    color:black;
+}
